@@ -1,0 +1,17 @@
+{
+    "name": "ian/pro",
+    "autoload": {
+        "psr-4": {
+            "Ian\\Pro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iansiminyu",
+            "email": "ian.siminyu@strathmore.edu"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
